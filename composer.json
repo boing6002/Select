@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/select",
+    "name": "boing6002/select",
     "description": "Bootstrap Select data builder with server-side data fetching capability and a VueJS component",
     "keywords": [
         "laravel-enso",
